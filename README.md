@@ -8,3 +8,6 @@
 - BaggingClassifier
 - GradientBoostingClassifier
 - RandomForestClassifier
+
+## Result
+#### It has predicted with>95% accuracy
